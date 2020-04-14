@@ -1,5 +1,7 @@
 # testenoticias
 testenoticias
+* Caso tenha os dois preenchidos - mostra so o telefonte 
+
 
 * Colocar o texto do Cabecalo, do lado do boneco.
 
