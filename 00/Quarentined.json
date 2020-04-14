@@ -1,26 +1,27 @@
 {
-"header-title":"Você está Infectado. Fique de quarentena imediatamente!",
-"header-body":"O resultado do seu teste indica que você está infectado com o Corona virus. Fique em casa e, caso os sintomas piorem, entre em contato.",
-"news":[{
-  "Id": 1,  
-  "Title": "Cuidados na quarentena",
-  "Content": "Você está infectado com o Corona virus e precisa observar seus sintomas. Não entre em contato com pessoas do grupo de risco...",
-  "Uri": "http://www.alosaudefloripa.com.br/",
-  "PhoneNumber": ""
-},
- {
-  "Id": 2,  
-  "Title": "Está se sentindo mal?",
-  "Content": "Está com sintomas compatíveis com o COVID-19? Clique aqui e entre em contato com o Alô Saúde.",
-  "Uri": "",
-  "PhoneNumber": "0800 333 3233"
-},
- {
-  "Id": 3,  
-  "Title": "Atualizações COVID-19",
-  "Content": "Floripa acaba de receber 600 novos respiradores e mais 10 mil testes rápidos ...",
-  "Uri": "http://www.pmf.sc.gov.br/entidades/saude/index.php",
-  "PhoneNumber": ""
-}
-]
+   "header-title":"Você está Infectado. Fique de quarentena imediatamente!",
+   "header-body":"O resultado do seu teste indica que você está infectado com o Corona virus. Fique em casa e, caso os sintomas piorem, entre em contato.",
+   "news":[
+      {
+         "Id":1,
+         "Title":"Cuidados na quarentena",
+         "Content":"Você está infectado com o Corona virus e precisa observar seus sintomas. Não entre em contato com pessoas do grupo de risco...",
+         "Uri":"http://www.alosaudefloripa.com.br/",
+         "PhoneNumber":""
+      },
+      {
+         "Id":2,
+         "Title":"Está se sentindo mal?",
+         "Content":"Está com sintomas compatíveis com o COVID-19? Clique aqui e entre em contato com o Alô Saúde.",
+         "Uri":"",
+         "PhoneNumber":"0800 333 3233"
+      },
+      {
+         "Id":3,
+         "Title":"Atualizações COVID-19",
+         "Content":"Floripa acaba de receber 600 novos respiradores e mais 10 mil testes rápidos ...",
+         "Uri":"http://www.pmf.sc.gov.br/entidades/saude/index.php",
+         "PhoneNumber":""
+      }
+   ]
 }
