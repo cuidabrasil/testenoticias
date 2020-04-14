@@ -1,4 +1,7 @@
-[{
+{
+"header-title":"Você está Infectado. Fique de quarentena imediatamente!",
+"header-body":"O resultado do seu teste indica que você está infectado com o Corona virus. Fique em casa e, caso os sintomas piorem, entre em contato.",
+"news":[{
   "Id": 1,  
   "Title": "Cuidados na quarentena",
   "Content": "Você está infectado com o Corona virus e precisa observar seus sintomas. Não entre em contato com pessoas do grupo de risco...",
@@ -20,3 +23,4 @@
   "PhoneNumber": ""
 }
 ]
+}
