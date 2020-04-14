@@ -1,4 +1,7 @@
-[{
+{
+"header-title":"Atenção! Você deve fazer o isolamento preventivo",
+"header-body":"Você foi exposto ao Corona vírus e pode ter sido contaminado. Fique em casa e observe os sintomas.",
+"news":[{
   "Id": 1,  
   "Title": "Cuidados no Isolamento",
   "Content": "Somente saia de casa se extrema necessidade e sempre usando máscara cirúrgica. Leia atentamente as recomendações...",
@@ -20,3 +23,4 @@
   "PhoneNumber": ""
 }
 ]
+}
