@@ -1,4 +1,7 @@
-[{
+{
+"header-title":"Acabou a quarentena, você está imunizado!",
+"header-body":"Seu período de quarentena chegou ao fim. Agora, seu corpo já tem anticorpos contra o vírus. Continue cuidando dos que você ama!",
+"news":[{
   "Id": 1,  
   "Title": "Cuidados pós-quarentena",
   "Content": "Mesmo estando imunizado, você ainda precisa cuidar dos que estão à sua volta. Siga as orientações e saiba o que você pode ou não fazer",
@@ -20,3 +23,4 @@
   "PhoneNumber": ""
 }
 ]
+}
