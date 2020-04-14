@@ -1,23 +1,27 @@
 {
-"header-title":"Fique tranquilo, estamos te acompanhando",
-"header-body":"Não identificamos nenhum risco de contaminação. Fique de olho nas nossas recomendações e mantenha-se seguro.",
-"news": [{
-  "Id": 1,  
-  "Title": "Mantenha-se seguro!",
-  "Content": "Ao sair de casa, lembre-se de manter a máscara cobrindo o nariz e a boca. Ao chegar, lave bem as mãos com água e sabão...",
-  "Uri": "http://www.alosaudefloripa.com.br/",
-  "PhoneNumber": ""
-},{
-  "Id": 2,  
-  "Title": "Está se sentindo mal?",
-  "Content": "Está com sintomas compatíveis com o COVID-19? Clique aqui e entre em contato com o Alô Saúde.",
-  "Uri": "",
-  "PhoneNumber": "0800 333 3233"
-},{
-  "Id": 3,  
-  "Title": "Atualizações COVID-19",
-  "Content": "Floripa acaba de receber 600 novos respiradores e mais 10 mil testes rápidos ...",
-  "Uri": "http://www.pmf.sc.gov.br/entidades/saude/index.php",
-  "PhoneNumber": ""
-}]
+   "header-title":"Fique tranquilo, estamos te acompanhando",
+   "header-body":"Não identificamos nenhum risco de contaminação. Fique de olho nas nossas recomendações e mantenha-se seguro.",
+   "news":[
+      {
+         "Id":1,
+         "Title":"Mantenha-se seguro!",
+         "Content":"Ao sair de casa, lembre-se de manter a máscara cobrindo o nariz e a boca. Ao chegar, lave bem as mãos com água e sabão...",
+         "Uri":"http://www.alosaudefloripa.com.br/",
+         "PhoneNumber":""
+      },
+      {
+         "Id":2,
+         "Title":"Está se sentindo mal?",
+         "Content":"Está com sintomas compatíveis com o COVID-19? Clique aqui e entre em contato com o Alô Saúde.",
+         "Uri":"",
+         "PhoneNumber":"0800 333 3233"
+      },
+      {
+         "Id":3,
+         "Title":"Atualizações COVID-19",
+         "Content":"Floripa acaba de receber 600 novos respiradores e mais 10 mil testes rápidos ...",
+         "Uri":"http://www.pmf.sc.gov.br/entidades/saude/index.php",
+         "PhoneNumber":""
+      }
+   ]
 }
