@@ -7,6 +7,6 @@
    "why_body":"Precisamos de algumas informações básicas para informar como você deve proceder, no caso de contaminação.",
    "why_middle":"Também é necessário que você permita acesso à sua localização, para podermos monitorar se você entrou em contato com alguém infectado.",
    "why_end":"Não se preocupe, não compartilharemos suas informações com ninguém e nem utilizaremos para nenhum outro propósito que não o combate ao Corona virus.",
-   "navegacao_status":true,
-   "navegacao_cadastro":true
+   "navegacao_status":false,
+   "navegacao_cadastro":false
 }
